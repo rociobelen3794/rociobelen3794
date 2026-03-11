@@ -1,6 +1,6 @@
 # Rocío Belén Romero
 
-### Arquitectura | Análisis de Datos | Optimización de Procesos
+### Arquitectura | Data Analysis | Optimización de Procesos
 
 Arquitecta (UBA) con formación en programación y análisis de datos.  
 Me interesa analizar **cómputos, presupuestos y procesos de obra** para entender qué hay detrás de los números y cómo optimizar la eficiencia de un proyecto.
