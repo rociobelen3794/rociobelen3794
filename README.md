@@ -1,157 +1,82 @@
-## Arquitectura | Análisis de datos | Optimización de procesos
+# Rocío Belén Romero
 
-Hola soy Rocio, **Arquitecta** recibida en la Universidad de Buenos Aires con formación en **programación y análisis de datos**. Me enfoco especialmente en entender, optimizar y mejorar procesos.
+### Arquitectura | Análisis de Datos | Optimización de Procesos
 
-Dentro de la arquitectura, siempre me interesó la dimensión que muchas veces queda en segundo plano: **el análisis de cómputos, presupuestos, costos y eficiencia de obra**.
+Arquitecta (UBA) con formación en programación y análisis de datos.  
+Me interesa analizar **cómputos, presupuestos y procesos de obra** para entender qué hay detrás de los números y cómo optimizar la eficiencia de un proyecto.
 
-Me interesa entender qué hay detrás de los números:  
-cómo se relacionan entre sí, qué procesos los generan y de qué manera se pueden optimizar para lograr obras más eficientes y mejor planificadas.
-
-Actualmente desarrollo proyectos donde combino **arquitectura, análisis de datos y programación**, utilizando herramientas como **Power BI y Python** para explorar información, detectar patrones y construir visualizaciones que faciliten la toma de decisiones.
+Trabajo combinando **arquitectura, tecnología y análisis de datos** utilizando herramientas como **Power BI y Python** para explorar información, detectar patrones y apoyar la toma de decisiones.
 
 ---
 
-# 📊 Proyectos de Análisis y Datos
+# 📊 Proyectos de análisis de datos
 
 ### 🏗️ Análisis de Costos de Obra – Power BI
+Dashboard para analizar la estructura de costos de una obra e identificar rubros y tareas con mayor incidencia en el presupuesto.
 
-Dashboard interactivo desarrollado para analizar la estructura de costos de un proyecto de construcción.
-
-El objetivo del análisis es identificar los rubros que concentran mayor incidencia en el presupuesto y detectar oportunidades de optimización.
-
-Incluye análisis de:
-
+Incluye:
 - distribución de costos por rubro
-- relación entre materiales y mano de obra
-- tareas con mayor impacto en el costo total
-- análisis de Pareto para detectar los componentes que explican la mayor parte del presupuesto
+- análisis de materiales vs mano de obra
+- tareas con mayor impacto económico
+- análisis de Pareto de costos
 
-Tecnologías utilizadas:
-
-Power BI · DAX · Modelado de datos · Visualización de datos
+Tecnologías:  
+Power BI · DAX · Modelado de datos
 
 ---
 
 ### 💰 Análisis de Ventas – Power BI
-
-Reporte interactivo para analizar ventas, costos y rentabilidad mediante distintos indicadores de negocio.
-
-Incluye:
-
-- KPIs de ventas, costos y rentabilidad
-- evolución temporal de ventas
-- análisis por medios de pago
-- segmentación por zona
-- visualización geográfica de ventas
-
-Tecnologías:
-
-Power BI · Modelado de datos · Visualización de datos
-
----
-
-### 🚢 Análisis Exploratorio del Titanic – Python
-
-Análisis exploratorio de datos para identificar patrones de supervivencia en el Titanic a partir de variables como:
-
-- sexo
-- edad
-- clase
-- relaciones familiares a bordo
-
-Tecnologías:
-
-Python · Pandas · Matplotlib · Seaborn · Jupyter Notebook
-
----
-
-# 💻 Proyectos de Programación
-
-### Sistema para Corralón
-
-Sistema desarrollado para la gestión de un corralón.
-
-Incluye funcionalidades para:
-
-- gestión de productos
-- control de stock
-- administración de operaciones
-
-Tecnología:
-
-C#
-
----
-
-### Sistema de Gestión
-
-Sistema de gestión de recursos humanos desarrollado en PHP.
-
-Funciones:
-
-- administración de empleados
-- gestión de información interna
-
-Tecnologías:
-
-PHP · SCSS
-
----
-
-### Sistema para Tienda
-
-Aplicación web para la gestión de una tienda.
+Dashboard de ventas con KPIs de negocio y análisis de rentabilidad.
 
 Incluye:
+- ventas totales, costos y rentabilidad
+- evolución temporal
+- segmentación por medios de pago
+- análisis por zona
 
-- gestión de usuarios
-- administración de productos
-- control de stock
-
-Tecnología:
-
-Java
+Tecnologías:  
+Power BI · Modelado de datos
 
 ---
 
-# 🛠️ Tecnologías
+### 🚢 Análisis Exploratorio de Datos – Titanic
+Exploración de datos para identificar patrones de supervivencia según variables como sexo, edad y clase.
 
-### Análisis de datos
+Tecnologías:  
+Python · Pandas · Matplotlib · Seaborn
+
+---
+
+# 💻 Proyectos de programación
+
+- **Sistema para Corralón** – C#  
+- **Sistema de Gestión** – PHP  
+- **Sistema para Tienda** – Java
+
+---
+
+# 🛠 Tecnologías
+
+**Análisis de datos**
 - Power BI
 - Python
 - Pandas
 - Matplotlib
 - Seaborn
 
-### Programación
+**Programación**
 - Java
 - C#
 - PHP
 
-### Otras herramientas
+**Herramientas**
 - Git
 - GitHub
 - Visualización de datos
-- Análisis exploratorio de datos
-
----
-
-# 🎯 Intereses profesionales
-
-Tengo una forma de pensar muy estructurada y analítica.  
-Me interesa ir más allá de lo que muestran los números y entender **cómo se relacionan entre sí** y **qué procesos los generan**.
-
-En arquitectura, esto se traduce en el interés por analizar:
-
-- cómputos y presupuestos
-- estructuras de costos
-- procesos de obra
-- eficiencia operativa
-
-Creo que muchas de las decisiones más importantes en una obra se toman a partir de **cómo se planifica y se gestionan los recursos**, y ahí es donde el análisis de datos puede aportar muchísimo valor.
 
 ---
 
 # 📫 Contacto
 
-LinkedIn: /rocio-belén-romero
+LinkedIn  
+/rocio-belén-romero
